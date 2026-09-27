@@ -34,6 +34,7 @@
     "site/releases/681a90851f651a94544a5b5b61467a9e13020270635477c0bdaf87c165f87d43.json",
     "site/releases/748fc6c9de3b17187d77d4df69818b72939c03554225b9c3155929390db52411.json",
     "site/releases/777a627ba7ac1c13208f8db5b95783f3267edcff7a260cf35a884613219a928f.json",
+    "site/releases/7a3c1abc5752db31b2560fac7258e4b4ce5c9581eb634473097f1940995c69b9.json",
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json",
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json",
     "site/releases/bd8693d245c439e4bc52d164e562f767abd167662155d4f404e04f430b6f39e7.json",
@@ -51,19 +52,19 @@
   "files": {
     "README.md": {
       "bytes": 540,
-      "sha256": "fbb6cf23073a3bdca71dce5ef646f3929cccc142926b9594a29f644da3410b16"
+      "sha256": "13cd63b66fb8c9b8af08089cfafcfeaa2b5c7cf206c04a1b901344fb45fe8f58"
     },
     "reference/biome/0001.md": {
       "bytes": 6875,
-      "sha256": "78003e0069e7ff4d178a8a3703a2a0e1aee7125da80638e787c4bdc2b33bd7fd"
+      "sha256": "f60fc93a3edddab5590b303e55222f0c12cc5fe28cc61d928bcbccac857ce3eb"
     },
     "reference/index.md": {
       "bytes": 300,
-      "sha256": "46061ea5c0b759e28cb2fc8c147f9da95ae40ac4c9891d74cb0618655f2d954b"
+      "sha256": "7e3aa0cca430c2f950d699cbbf17b8defa22985bb39e152a61ea8cc350aa5a5c"
     },
     "reference/resource-distribution/0001.md": {
       "bytes": 28676,
-      "sha256": "913244785882c6cb9d0a1b284649c936a3e1b561c2114afc48dd5c16e3f09231"
+      "sha256": "9cae5d88b7d1209c186d2455a1742ac6453f449c477f6bf71054f79115b91b88"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -203,7 +204,7 @@
     },
     "site/reader.json": {
       "bytes": 6563,
-      "sha256": "147cce7d36e4775aaa8b2d14b6776cd492dd02e1dbfbe20150043c681d7d40fd"
+      "sha256": "f2ec61920f78c24bd3f66a1bb1cb813858a6dca2e691e2e11e95dcbf951e4530"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4991,
@@ -232,6 +233,10 @@
     "site/releases/777a627ba7ac1c13208f8db5b95783f3267edcff7a260cf35a884613219a928f.json": {
       "bytes": 6563,
       "sha256": "147cce7d36e4775aaa8b2d14b6776cd492dd02e1dbfbe20150043c681d7d40fd"
+    },
+    "site/releases/7a3c1abc5752db31b2560fac7258e4b4ce5c9581eb634473097f1940995c69b9.json": {
+      "bytes": 6563,
+      "sha256": "f2ec61920f78c24bd3f66a1bb1cb813858a6dca2e691e2e11e95dcbf951e4530"
     },
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json": {
       "bytes": 5064,
@@ -287,7 +292,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "777a627ba7ac1c13208f8db5b95783f3267edcff7a260cf35a884613219a928f",
+  "release_id": "7a3c1abc5752db31b2560fac7258e4b4ce5c9581eb634473097f1940995c69b9",
   "repository_id": "biomes-resources",
   "schema_version": 1
 }
