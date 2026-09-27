@@ -26,6 +26,7 @@
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json",
     "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json",
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json",
+    "site/releases/242d80ac4dde930da38365b9eec1a67e165ef19b646afe0fe8166838ba606ca5.json",
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json",
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json",
     "site/releases/bd8693d245c439e4bc52d164e562f767abd167662155d4f404e04f430b6f39e7.json",
@@ -35,24 +36,25 @@
     "site/runtime/a979de566a398a5f0c065f3d31bc041947482cc46bab4740b92b9fb9a746b467/reader.js",
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css",
     "site/runtime/d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1/reader.js",
+    "site/runtime/f0ade7d6a7bbd7e9518d674aaa0711319d943102fbef89524a30f2eb03542a67/reader.js",
     "site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js"
   ],
   "files": {
     "README.md": {
       "bytes": 540,
-      "sha256": "af5d9c25241c69f67e564883c900bfb96ff34315c07c3ce4c1b7568b39e445a2"
+      "sha256": "ccce7f8acf53c952347bb19683ac657698f4e61eecc0edd8cd50b1a8c1176e6b"
     },
     "reference/biome/0001.md": {
       "bytes": 6875,
-      "sha256": "65f03ad5e1aa2efb1a5fab3ed16fbcd67f73fc3ceeb6c2fe7b77e634341fbdd8"
+      "sha256": "ae433dfceadff56f058a390bee1bb54a6f810bb74eb865c2ae6a22ddf623fbdd"
     },
     "reference/index.md": {
       "bytes": 300,
-      "sha256": "21bc05c8977d860e492a8bac4834f52811ab78090ffdeb62c17adee18e61575d"
+      "sha256": "0c8b59a01513120a7f254d1d58af4a3639e6740ad81ad850ce69bf2b024588f3"
     },
     "reference/resource-distribution/0001.md": {
       "bytes": 28676,
-      "sha256": "6ef695b19f9c9aec9353ecbd32cd02e4957413ce87f38ba5a89678e46ce09dff"
+      "sha256": "ee78ce1be348b107495cbd6377cf19d3c83ca30b793d418c5736a59974527b96"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -175,8 +177,8 @@
       "sha256": "257fa077be724f14eb91dbe74106853b1281b9809a8307aa0ade74d6ba98b43a"
     },
     "site/reader.json": {
-      "bytes": 5094,
-      "sha256": "f3035570fcdf6b91c798b9db4dd634d9cbe6eefd16ccfc231359ccb74e73560d"
+      "bytes": 6019,
+      "sha256": "6bb15775def09fa6d9b87e5466baa4650210d2b647ad0651412eb999afc708e5"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4991,
@@ -189,6 +191,10 @@
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json": {
       "bytes": 5039,
       "sha256": "9e2469724d39ab81ebd557b441c676975c985ab26b25ef7c19353a120a745123"
+    },
+    "site/releases/242d80ac4dde930da38365b9eec1a67e165ef19b646afe0fe8166838ba606ca5.json": {
+      "bytes": 6019,
+      "sha256": "6bb15775def09fa6d9b87e5466baa4650210d2b647ad0651412eb999afc708e5"
     },
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json": {
       "bytes": 5064,
@@ -226,13 +232,17 @@
       "bytes": 17501,
       "sha256": "d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1"
     },
+    "site/runtime/f0ade7d6a7bbd7e9518d674aaa0711319d943102fbef89524a30f2eb03542a67/reader.js": {
+      "bytes": 23114,
+      "sha256": "f0ade7d6a7bbd7e9518d674aaa0711319d943102fbef89524a30f2eb03542a67"
+    },
     "site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js": {
       "bytes": 15690,
       "sha256": "f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417"
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "bd8693d245c439e4bc52d164e562f767abd167662155d4f404e04f430b6f39e7",
+  "release_id": "242d80ac4dde930da38365b9eec1a67e165ef19b646afe0fe8166838ba606ca5",
   "repository_id": "biomes-resources",
   "schema_version": 1
 }
