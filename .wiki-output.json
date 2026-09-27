@@ -1,20 +1,51 @@
 {
+  "capacity_objects": [
+    "site/data/00a828e654d7d4aeaadeb8ae9bff84de6aa37011bfaa2516366ee601892198bc.json",
+    "site/data/03b8905a2a20aad5d2365a099ac4e563aadab20d5ae1e9508747fb63c2cc24e2.json",
+    "site/data/16adadf9fb91ce37020061a0fb43298fcd4a8a93bbe56b3f2e0ae132aa9999ee.json",
+    "site/data/1e9ec0d0e3198b0db5f8775cd0769df39ac051dac67dd2b7de46bed96e06b6b1.json",
+    "site/data/2261f3839987b42067d5f5fa0dd17d8b8aaace8fe2c91b23066bd21eb2bb8795.json",
+    "site/data/2684502b42524c4295be89fe318986cb283b05ed6dc0516b510e4ad132de3c36.json",
+    "site/data/2710425d52bb2191c077f6cda57317c18e88d90da38086006607f611a8cc9f14.json",
+    "site/data/2a2a4b308ec6ca5489165b6b767aac27cbbd752c6aecf9fb714d2f32b5b810f5.json",
+    "site/data/2eba92cae4514dc1d3e575a4c10ad44b5f0673c168966599ba4f6cdd113eeef4.json",
+    "site/data/386425eb64744d4f071a609692bbcb374e61b39e271d6e4ff34c0570f6643139.json",
+    "site/data/469c7aa3a6652daaff34b8db8bd926ffe85b5a8beacd2b57c8fdf1295ac40b21.json",
+    "site/data/5421c71012ee6e5b95ef9a149e8a77ad722f23ccd9359b398a19378e881c76bf.json",
+    "site/data/55e6d23430b4490ebbd5c274621f0378d6355230537b2228e1c43b00f1e2e631.json",
+    "site/data/652b34f03753cf829d9515db866ef3c15c9c8769848f0149160e683bc2f68888.json",
+    "site/data/7e51ac01fe06dded38fb2d2d486c5800e9049d9ce609ccbeb3afc41025e0cb23.json",
+    "site/data/8cdf1dcc57750918d748e23edd5c6427a4b6455cb0e89ba4d9e594ef27eb8e4a.json",
+    "site/data/9e908d44d3ec92c407c8a1f852320eb7d71861c389abf462cf54235e17bf3bf4.json",
+    "site/data/aa4671c3053311b3d5fc9bb398b3612eddbb7e8ca43bac2d61b5abd3e522ef81.json",
+    "site/data/bc7caf6d47a35e8af6c96ec2dc19c3cbdee7c05a505baff080a430fc55d4d433.json",
+    "site/data/f0034db00be67cbb013b9795dbad0bc3740bbac4c5b937fecfe5298d8e13b41b.json",
+    "site/data/f4152358764a854db089b657b93fdca1e757db838dfc465d50d11daeafd8de72.json",
+    "site/objects/3d2467194e1717b47267e989041ad754717a57bf02006e89340c8cfd5812eee6.json",
+    "site/objects/8297a46974c4a53f116b0bc46b68820d0d1384b121a373fbc8468ec9716041ab.json",
+    "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json",
+    "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json",
+    "site/releases/d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80.json",
+    "site/runtime/a979de566a398a5f0c065f3d31bc041947482cc46bab4740b92b9fb9a746b467/reader.js",
+    "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css",
+    "site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js"
+  ],
   "files": {
     "README.md": {
       "bytes": 540,
-      "sha256": "8b024e837b6444a8ab451e27dadae06c8157bd165263b16e45f57aa221bb27ed"
+      "sha256": "eb632ed7de8c98511b64e7f3d04848f1955df3d2b3015820c5b206af287a792f"
     },
     "reference/biome/0001.md": {
       "bytes": 6875,
-      "sha256": "4e0c5012bb407e6d722c033b6503b0fb5fd931ed71678d4d9679ab5098e291fe"
+      "sha256": "b7161afc3bdef34d51030cd3ceff1851b1330254dbd592ba6d72493e8e55b67e"
     },
     "reference/index.md": {
       "bytes": 300,
-      "sha256": "556cb35cc018040b14dd92baf1b159ac25ec9582c5151bef6a01f248815c2018"
+      "sha256": "d90c21c7c9f8eae7a8938ee374cdb25190c98c4bbb542d76f5cb871813b4afc8"
     },
     "reference/resource-distribution/0001.md": {
       "bytes": 28676,
-      "sha256": "433a89bbff9221d3cbeb66ec1f544a25381ba80dc0dcacb522d63966c8366f90"
+      "sha256": "c4b3fb04de4340e2a4693b5575afea383c1b1346a97e90089db9ac2173c98be7"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -133,12 +164,12 @@
       "sha256": "31b3df513e2f5dab1f6a5db5c18838345bc1e7fd666166dc98d48c996fba712f"
     },
     "site/reader.js": {
-      "bytes": 1966,
-      "sha256": "60af12c1c57d601902c0960bce6ea77136ffe396136988797b1457c057deb782"
+      "bytes": 3622,
+      "sha256": "078e32e0db8db963f2c2af559a96e63f7c0bb22622606a927a893019405b1045"
     },
     "site/reader.json": {
       "bytes": 4991,
-      "sha256": "45ef1a6e51111aaa6b08078c492f7688da9cc4bd97c46e2a9d2820fb3356b12f"
+      "sha256": "1c2dd7a7488966ff42866c21d83c02b6edf0afd7969dede580487259108b9aa1"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4991,
@@ -147,6 +178,14 @@
     "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json": {
       "bytes": 4991,
       "sha256": "45ef1a6e51111aaa6b08078c492f7688da9cc4bd97c46e2a9d2820fb3356b12f"
+    },
+    "site/releases/d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80.json": {
+      "bytes": 4991,
+      "sha256": "1c2dd7a7488966ff42866c21d83c02b6edf0afd7969dede580487259108b9aa1"
+    },
+    "site/runtime/a979de566a398a5f0c065f3d31bc041947482cc46bab4740b92b9fb9a746b467/reader.js": {
+      "bytes": 15795,
+      "sha256": "a979de566a398a5f0c065f3d31bc041947482cc46bab4740b92b9fb9a746b467"
     },
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css": {
       "bytes": 4358,
@@ -158,7 +197,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f",
+  "release_id": "d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80",
   "repository_id": "biomes-resources",
   "schema_version": 1
 }
