@@ -2,19 +2,19 @@
   "files": {
     "README.md": {
       "bytes": 540,
-      "sha256": "f2c13433e9201a09b944b7005df1ad25262e1c6d455ab4bf8df3e00fdf5c2ef1"
+      "sha256": "8b024e837b6444a8ab451e27dadae06c8157bd165263b16e45f57aa221bb27ed"
     },
     "reference/biome/0001.md": {
       "bytes": 6875,
-      "sha256": "087914fc366675cfa7d40651f0c4d4df5edb1413069112bf28ba8b1e85ff0be7"
+      "sha256": "4e0c5012bb407e6d722c033b6503b0fb5fd931ed71678d4d9679ab5098e291fe"
     },
     "reference/index.md": {
       "bytes": 300,
-      "sha256": "8c58df5b03291259d5b0e9724200e14eeab4aaa35dec370d85e3fb105d45b01e"
+      "sha256": "556cb35cc018040b14dd92baf1b159ac25ec9582c5151bef6a01f248815c2018"
     },
     "reference/resource-distribution/0001.md": {
       "bytes": 28676,
-      "sha256": "3c8f02add140fa9b4fe61e49c3373692d592eb0a9a2905e62ca8b16d7708c285"
+      "sha256": "433a89bbff9221d3cbeb66ec1f544a25381ba80dc0dcacb522d63966c8366f90"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -133,16 +133,20 @@
       "sha256": "31b3df513e2f5dab1f6a5db5c18838345bc1e7fd666166dc98d48c996fba712f"
     },
     "site/reader.js": {
-      "bytes": 1371,
-      "sha256": "e84ddb12f036211b5a8c47c4e70ac0ab5eb1fef0c758438de353064e73ec0ff9"
+      "bytes": 1966,
+      "sha256": "60af12c1c57d601902c0960bce6ea77136ffe396136988797b1457c057deb782"
     },
     "site/reader.json": {
       "bytes": 4991,
-      "sha256": "3b80e6a71e7e817e13cd60e389137184328ffa0d0f61770a9b21f4b5b5c11341"
+      "sha256": "45ef1a6e51111aaa6b08078c492f7688da9cc4bd97c46e2a9d2820fb3356b12f"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4991,
       "sha256": "3b80e6a71e7e817e13cd60e389137184328ffa0d0f61770a9b21f4b5b5c11341"
+    },
+    "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json": {
+      "bytes": 4991,
+      "sha256": "45ef1a6e51111aaa6b08078c492f7688da9cc4bd97c46e2a9d2820fb3356b12f"
     },
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css": {
       "bytes": 4358,
@@ -154,7 +158,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda",
+  "release_id": "120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f",
   "repository_id": "biomes-resources",
   "schema_version": 1
 }
